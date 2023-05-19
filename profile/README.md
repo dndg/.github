@@ -1,6 +1,6 @@
 # Welcome to DNDG
 
-![DNDG Logo](./banner.jpg)
+![DNDG Logo](/profile/banner.jpg)
 
 Welcome to the introductory page of DNDG on GitHub! We are a software development company specialized in providing comprehensive IoT solutions. Our goal is to leverage cutting-edge technology to create innovative software solutions for the IoT industry.
 
